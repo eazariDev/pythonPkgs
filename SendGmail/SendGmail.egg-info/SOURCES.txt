@@ -1,0 +1,8 @@
+setup.py
+SendGmail/__init__.py
+SendGmail/handler.py
+SendGmail.egg-info/PKG-INFO
+SendGmail.egg-info/SOURCES.txt
+SendGmail.egg-info/dependency_links.txt
+SendGmail.egg-info/not-zip-safe
+SendGmail.egg-info/top_level.txt
